@@ -5,6 +5,7 @@ public class MeghaClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("My first Pro");
+		System.out.println("Ashwini 2nd pro");
 	}
 
 }
